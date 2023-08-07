@@ -38,7 +38,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Adele",
-    img: "adele.png",
+    img: "IF2OF28.png",
     opts: {
       branch: ["flora"],
       kms: true
@@ -46,7 +46,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Angelic Buster",
-    img: "angelic_buster.png",
+    img: "T32Os69.png",
     opts: {
       branch: ["nova"],
       kms: true
@@ -54,7 +54,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Aran",
-    img: "aran.png",
+    img: "rmgsldd.png",
     opts: {
       branch: ["hero"],
       kms: true
@@ -62,7 +62,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ark",
-    img: "ark.png",
+    img: "CkYJd3Z.png",
     opts: {
       branch: ["flora"],
       kms: true
@@ -70,7 +70,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Battle Mage",
-    img: "battle_mage.png",
+    img: "CJAIOT2.png",
     opts: {
       branch: ["res"],
       kms: true
@@ -78,7 +78,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Beast Tamer",
-    img: "beast_tamer.png",
+    img: "xdgniua.png",
     opts: {
       branch: ["jp"],
       kms: false
@@ -86,7 +86,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Bishop",
-    img: "bishop.png",
+    img: "Lkkhf81.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -94,7 +94,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Blaster",
-    img: "blaster.png",
+    img: "tzb33TZ.png",
     opts: {
       branch: ["res"],
       kms: true
@@ -102,7 +102,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Blaze Wizard",
-    img: "blaze_wizard.png",
+    img: "fls9qtz.png",
     opts: {
       branch: ["koc"],
       kms: true
@@ -110,7 +110,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {	
     name: "Bowmaster",
-    img: "bowmaster.png",
+    img: "pyLKwMy.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -118,7 +118,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Buccaneer",
-    img: "buccaneer.png",
+    img: "MIsQN6Y.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -126,7 +126,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Cadena",
-    img: "cadena.png",
+    img: "Zzk9kaT.png",
     opts: {
       branch: ["nova"],
       kms: true
@@ -134,7 +134,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Cannoneer",
-    img: "cannoneer.png",
+    img: "4hGuTqE.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -142,7 +142,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Corsair",
-    img: "corsair.png",
+    img: "lwEyiDe.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -150,7 +150,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dark Knight",
-    img: "dark_knight.png",
+    img: "9Q30N6z.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -158,7 +158,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dawn Warrior",
-    img: "dawn_warrior.png",
+    img: "lHY2IO8.png",
     opts: {
       branch: ["koc"],
       kms: true
@@ -166,7 +166,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Demon Avenger",
-    img: "demon_avenger.png",
+    img: "mRPVrCd.png",
     opts: {
       branch: ["res"],
       kms: true
@@ -174,7 +174,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Demon Slayer",
-    img: "demon_slayer.png",
+    img: "PXpvEcL.png",
     opts: {
       branch: ["res"],
       kms: true
@@ -182,7 +182,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dual Blade",
-    img: "dual_blade.png",
+    img: "z3HhQO8.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -190,7 +190,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Evan",
-    img: "evan.png",
+    img: "J8f8F9a.png",
     opts: {
       branch: ["hero"],
       kms: true
@@ -198,7 +198,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Fire Poison",
-    img: "fire_poison.png",
+    img: "wka1irN.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -206,7 +206,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hayato",
-    img: "hayato.png",
+    img: "7hh55Km.png",
     opts: {
       branch: ["jp"],
       kms: false
@@ -214,7 +214,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hero",
-    img: "hero.png",
+    img: "J5C9mG7.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -222,7 +222,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ho Young",
-    img: "ho_young.png",
+    img: "AphKFad.png",
     opts: {
       branch: ["furry"],
       kms: true
@@ -230,7 +230,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ice Lightning",
-    img: "ice_lightning.png",
+    img: "GNVzGXo.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -238,7 +238,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Illium",
-    img: "illium.png",
+    img: "1cM1WqS.png",
     opts: {
       branch: ["flora"],
       kms: true
@@ -246,7 +246,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jett",
-    img: "jett.png",
+    img: "rPfjviO.png",
     opts: {
       branch: ["exp"],
       kms: false,
@@ -255,7 +255,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kain",
-    img: "kain.png",
+    img: "CD8yBOn.png",
     opts: {
       branch: ["nova"],
       kms: true
@@ -263,7 +263,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kaiser",
-    img: "kaiser.png",
+    img: "ha9OzlO.png",
     opts: {
       branch: ["nova"],
       kms: true
@@ -271,7 +271,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kanna",
-    img: "kanna.png",
+    img: "fMgtLy5.png",
     opts: {
       branch: ["jp"],
       kms: false
@@ -279,7 +279,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Khali",
-    img: "khali.png",
+    img: "Wxwses5.png",
     opts: {
       branch: ["flora"],
       kms: true
@@ -287,7 +287,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kinesis",
-    img: "kinesis.png",
+    img: "G2oHUjU.png",
     opts: {
       branch: ["friend"],
       kms: true
@@ -295,7 +295,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Lara",
-    img: "lara.png",
+    img: "mWPgpXY.png",
     opts: {
       branch: ["furry"],
       kms: true
@@ -303,7 +303,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Luminous",
-    img: "luminous.png",
+    img: "lcRKW3c.png",
     opts: {
       branch: ["hero"],
       kms: true
@@ -311,7 +311,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Marksman",
-    img: "marksman.png",
+    img: "nAXZCB2.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -319,7 +319,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mechanic",
-    img: "mechanic.png",
+    img: "bhhAQlG.png",
     opts: {
       branch: ["res"],
       kms: true
@@ -327,7 +327,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mercedes",
-    img: "mercedes.png",
+    img: "HfReeeW.png",
     opts: {
       branch: ["hero"],
       kms: true
@@ -335,7 +335,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mihile",
-    img: "mihile.png",
+    img: "zF8YKmh.png",
     opts: {
       branch: ["koc"],
       kms: true
@@ -343,7 +343,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Night Lord",
-    img: "night_lord.png",
+    img: "7YKKScM.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -351,7 +351,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Night Walker",
-    img: "night_walker.png",
+    img: "rR9w5Z9.png",
     opts: {
       branch: ["koc"],
       kms: true
@@ -359,7 +359,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Paladin",
-    img: "paladin.png",
+    img: "mjQosdw.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -367,7 +367,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Pathfinder",
-    img: "pathfinder.png",
+    img: "le5fFwc.png",
     opts: {
       branch: ["hero"],
       kms: true
@@ -375,7 +375,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Phantom",
-    img: "phantom.png",
+    img: "DLuvaFu.png",
     opts: {
       branch: ["hero"],
       kms: true
@@ -383,7 +383,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shade",
-    img: "shade.png",
+    img: "FshNvX8.png",
     opts: {
       branch: ["hero"],
       kms: true
@@ -391,7 +391,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shadower",
-    img: "shadower.png",
+    img: "PY3JtCV.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -399,7 +399,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Thunder Breaker",
-    img: "thunder_breaker.png",
+    img: "Y5jI1Hm.png",
     opts: {
       branch: ["koc"],
       kms: true
@@ -407,7 +407,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Wild Hunter",
-    img: "wild_hunter.png",
+    img: "EkCs70m.png",
     opts: {
       branch: ["res"],
       kms: true
@@ -415,7 +415,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Wind Archer",
-    img: "wind_archer.png",
+    img: "roEsQ38.png",
     opts: {
       branch: ["koc"],
       kms: true
@@ -423,7 +423,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Xenon",
-    img: "xenon.png",
+    img: "gMFjmxh.png",
     opts: {
       branch: ["res"],
       kms: true
@@ -431,7 +431,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Zero",
-    img: "zero.png",
+    img: "IHn1rAg.png",
     opts: {
       branch: ["zero"],
       kms: true
