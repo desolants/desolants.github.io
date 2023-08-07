@@ -24,7 +24,7 @@ dataSet[dataSetVersion].options = [
   {
     name: "Exclude Non KMS",
     key: "gms",
-    tooltip: "Check this to Jett, Sengoku, and Beast Tamer.",
+    tooltip: "Check this to exclude Jett, Sengoku, and Beast Tamer.",
     checked: false
   },
   {
