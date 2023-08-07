@@ -80,8 +80,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Beast Tamer",
     img: "beast_tamer.webp",
     opts: {
-      branch: ["jp"],
-      kms: false
+      branch: ["bt"],
     }
   },
   {
@@ -209,7 +208,6 @@ dataSet[dataSetVersion].characterData = [
     img: "hayato.webp",
     opts: {
       branch: ["jp"],
-      kms: false
     }
   },
   {
@@ -249,7 +247,6 @@ dataSet[dataSetVersion].characterData = [
     img: "jett.webp",
     opts: {
       branch: ["exp"],
-      kms: false,
       removed: true
     }
   },
@@ -274,7 +271,6 @@ dataSet[dataSetVersion].characterData = [
     img: "kanna.webp",
     opts: {
       branch: ["jp"],
-      kms: false
     }
   },
   {
