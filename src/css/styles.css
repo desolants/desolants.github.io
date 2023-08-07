@@ -1,6 +1,13 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.dark-mode {
+  background-color: rgb(4, 15, 19);
+  color: rgb(235, 235, 235);
 }
 
 .container {
@@ -19,7 +26,7 @@ body {
 .progressbar {
   position: relative;
   width: 492px;
-  border: 1px solid black;
+  border: 1px solid #257093;
   padding: 3px;
   margin: 2px 0px;
 }
@@ -34,7 +41,7 @@ body {
 
 .progressfill {
   height: 20px;
-  background-color: lightgreen;
+  background-color: #113546;
   width: 0%;
 }
 
@@ -47,7 +54,7 @@ body {
 }
 
 .button {
-  border: 1px solid black;
+  border: 1px solid #257093;
   text-align: center;
   padding: 10%;
   grid-column: 2 / 3;
@@ -77,7 +84,7 @@ body {
   width: 25px;
   height: 25px;
   margin: 50px auto;
-  background-color: #333;
+  background-color: rgb(0, 0, 0);
 
   border-radius: 100%;  
   -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
@@ -112,7 +119,7 @@ body {
 
 .sorter > .image {
   width: 120px;
-  height: 180px;
+  height: 120px;
   margin: auto;
   grid-row: 1 / 7;
   cursor: pointer;
@@ -134,12 +141,12 @@ body {
 
 .sorter > .left {
   grid-column: 1 / 2;
-  border: 1px solid #000000;
+  border: 1px solid #257093;
 }
 
 .sorter > .right {
   grid-column: 3 / 4;
-  border: 1px solid #000000;
+  border: 1px solid #257093;
 }
 
 .options {
@@ -152,15 +159,11 @@ body {
 }
 
 .options > div {
-  font-size: 0.5625em;
+  font-size: 0.9em;
 }
 
 label {
   cursor: pointer;
-}
-
-label:hover {
-  color: #990000;
 }
 
 .options > .large.option, .options > hr {
@@ -213,7 +216,7 @@ label:hover {
   display: grid;
   width: 211px;
   grid-template-columns: repeat(2, 1fr);
-  border: 1px solid #000;
+  border: 1px solid #257093;
   margin-right: 5px;
 }
 
@@ -227,12 +230,12 @@ label:hover {
 
 .result.spacer {
   height: 1px;
-  background-color: #000;
+  background-color: #257093;
 }
 
 .result.head {
-  background-color: #000;
-  color: #FFF;
+  background-color: #257093;
+  color: rgb(255, 255, 255);
 }
 
 .result > .left {
@@ -257,7 +260,7 @@ label:hover {
   width: 160px;
   padding: 1px 0em 1px 0em;
   grid-column: 2 / 3;
-  border-left: 1px solid #000;
+  border-left: 1px solid #257093;
   text-align: center;
 }
 
@@ -265,22 +268,27 @@ label:hover {
   margin: 2em auto 3em;
   display: block;
   text-align: center;
-  font-size: 0.6875em;
+  font-size: 0.9em;
   width: 80%;
   line-height: 1.2em;
 }
 
 a {
-  color: #990000;
+  color: #257093;
   font-weight: bold;
   text-decoration: none;
   cursor: pointer;
 }
 
 a:hover {
-  color: #FF6600;
+  color: #257093;
 }
 
 a:visited {
-  color: #6600FF;
+  color: #257093;
+}
+
+.wip {
+  font-size: 1.5em;
+  font-weight: bold;
 }
