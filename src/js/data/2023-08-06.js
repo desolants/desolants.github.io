@@ -23,7 +23,7 @@ dataSet[dataSetVersion].options = [
   },
   {
     name: "Exclude Non KMS",
-    key: "kms",
+    key: "gms",
     tooltip: "Check this to Jett, Sengoku, and Beast Tamer.",
     checked: false
   },
@@ -81,6 +81,7 @@ dataSet[dataSetVersion].characterData = [
     img: "beast_tamer.webp",
     opts: {
       branch: ["bt"],
+	  gms: true
     }
   },
   {
@@ -208,6 +209,7 @@ dataSet[dataSetVersion].characterData = [
     img: "hayato.webp",
     opts: {
       branch: ["jp"],
+	  gms: true
     }
   },
   {
@@ -247,6 +249,7 @@ dataSet[dataSetVersion].characterData = [
     img: "jett.webp",
     opts: {
       branch: ["exp"],
+	  gms: true,
       removed: true
     }
   },
@@ -271,6 +274,7 @@ dataSet[dataSetVersion].characterData = [
     img: "kanna.webp",
     opts: {
       branch: ["jp"],
+	  gms: true
     }
   },
   {
