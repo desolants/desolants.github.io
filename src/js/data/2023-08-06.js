@@ -15,7 +15,7 @@ dataSet[dataSetVersion].options = [
       { name: "Nova", key: "nova" },
       { name: "Sengoku", key: "jp" },
       { name: "Flora", key: "flora" },
-      { name: "FriendStory", key: "fs" },
+      { name: "FriendStory", key: "friend" },
       { name: "Child of God", key: "zero" },      
       { name: "Anima", key: "furry" },
       { name: "Beast Tamer", key: "bt" },
@@ -238,7 +238,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Illium",
-    img: "flora.webp",
+    img: "illium.webp",
     opts: {
       branch: ["flora"],
       kms: true
@@ -289,7 +289,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Kinesis",
     img: "kinesis.webp",
     opts: {
-      branch: ["fs"],
+      branch: ["friend"],
       kms: true
     }
   },
