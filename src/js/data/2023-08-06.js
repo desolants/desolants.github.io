@@ -38,7 +38,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Adele",
-    img: "adele.webp",
+    img: "adele.png",
     opts: {
       branch: ["flora"],
       kms: true
@@ -46,7 +46,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Angelic Buster",
-    img: "angelic_buster.webp",
+    img: "angelic_buster.png",
     opts: {
       branch: ["nova"],
       kms: true
@@ -54,7 +54,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Aran",
-    img: "aran.webp",
+    img: "aran.png",
     opts: {
       branch: ["hero"],
       kms: true
@@ -62,7 +62,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ark",
-    img: "ark.webp",
+    img: "ark.png",
     opts: {
       branch: ["flora"],
       kms: true
@@ -70,7 +70,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Battle Mage",
-    img: "battle_mage.webp",
+    img: "battle_mage.png",
     opts: {
       branch: ["res"],
       kms: true
@@ -78,7 +78,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Beast Tamer",
-    img: "beast_tamer.webp",
+    img: "beast_tamer.png",
     opts: {
       branch: ["jp"],
       kms: false
@@ -86,7 +86,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Bishop",
-    img: "bishop.webp",
+    img: "bishop.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -94,7 +94,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Blaster",
-    img: "blaster.webp",
+    img: "blaster.png",
     opts: {
       branch: ["res"],
       kms: true
@@ -102,7 +102,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Blaze Wizard",
-    img: "blaze_wizard.webp",
+    img: "blaze_wizard.png",
     opts: {
       branch: ["koc"],
       kms: true
@@ -110,7 +110,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {	
     name: "Bowmaster",
-    img: "bowmaster.webp",
+    img: "bowmaster.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -118,7 +118,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Buccaneer",
-    img: "buccaneer.webp",
+    img: "buccaneer.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -126,7 +126,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Cadena",
-    img: "cadena.webp",
+    img: "cadena.png",
     opts: {
       branch: ["nova"],
       kms: true
@@ -134,7 +134,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Cannoneer",
-    img: "cannoneer.webp",
+    img: "cannoneer.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -142,7 +142,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Corsair",
-    img: "corsair.webp",
+    img: "corsair.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -150,7 +150,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dark Knight",
-    img: "dark_knight.webp",
+    img: "dark_knight.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -158,7 +158,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dawn Warrior",
-    img: "dawn_warrior.webp",
+    img: "dawn_warrior.png",
     opts: {
       branch: ["koc"],
       kms: true
@@ -166,7 +166,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Demon Avenger",
-    img: "demon_avenger.webp",
+    img: "demon_avenger.png",
     opts: {
       branch: ["res"],
       kms: true
@@ -174,7 +174,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Demon Slayer",
-    img: "demon_slayer.webp",
+    img: "demon_slayer.png",
     opts: {
       branch: ["res"],
       kms: true
@@ -182,7 +182,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dual Blade",
-    img: "dual_blade.webp",
+    img: "dual_blade.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -190,7 +190,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Evan",
-    img: "evan.webp",
+    img: "evan.png",
     opts: {
       branch: ["hero"],
       kms: true
@@ -198,7 +198,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Fire Poison",
-    img: "fire_poison.webp",
+    img: "fire_poison.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -206,7 +206,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hayato",
-    img: "hayato.webp",
+    img: "hayato.png",
     opts: {
       branch: ["jp"],
       kms: false
@@ -214,7 +214,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hero",
-    img: "hero.webp",
+    img: "hero.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -222,7 +222,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ho Young",
-    img: "ho_young.webp",
+    img: "ho_young.png",
     opts: {
       branch: ["furry"],
       kms: true
@@ -230,7 +230,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ice Lightning",
-    img: "ice_lightning.webp",
+    img: "ice_lightning.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -238,7 +238,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Illium",
-    img: "illium.webp",
+    img: "illium.png",
     opts: {
       branch: ["flora"],
       kms: true
@@ -246,7 +246,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Jett",
-    img: "jett.webp",
+    img: "jett.png",
     opts: {
       branch: ["exp"],
       kms: false,
@@ -255,7 +255,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kain",
-    img: "kain.webp",
+    img: "kain.png",
     opts: {
       branch: ["nova"],
       kms: true
@@ -263,7 +263,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kaiser",
-    img: "kaiser.webp",
+    img: "kaiser.png",
     opts: {
       branch: ["nova"],
       kms: true
@@ -271,7 +271,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kanna",
-    img: "kanna.webp",
+    img: "kanna.png",
     opts: {
       branch: ["jp"],
       kms: false
@@ -279,7 +279,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Khali",
-    img: "khali.webp",
+    img: "khali.png",
     opts: {
       branch: ["flora"],
       kms: true
@@ -287,7 +287,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kinesis",
-    img: "kinesis.webp",
+    img: "kinesis.png",
     opts: {
       branch: ["friend"],
       kms: true
@@ -295,7 +295,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Lara",
-    img: "lara.webp",
+    img: "lara.png",
     opts: {
       branch: ["furry"],
       kms: true
@@ -303,7 +303,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Luminous",
-    img: "luminous.webp",
+    img: "luminous.png",
     opts: {
       branch: ["hero"],
       kms: true
@@ -311,7 +311,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Marksman",
-    img: "marksman.webp",
+    img: "marksman.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -319,7 +319,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mechanic",
-    img: "mechanic.webp",
+    img: "mechanic.png",
     opts: {
       branch: ["res"],
       kms: true
@@ -327,7 +327,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mercedes",
-    img: "mercedes.webp",
+    img: "mercedes.png",
     opts: {
       branch: ["hero"],
       kms: true
@@ -335,7 +335,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mihile",
-    img: "mihile.webp",
+    img: "mihile.png",
     opts: {
       branch: ["koc"],
       kms: true
@@ -343,7 +343,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Night Lord",
-    img: "night_lord.webp",
+    img: "night_lord.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -351,7 +351,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Night Walker",
-    img: "night_walker.webp",
+    img: "night_walker.png",
     opts: {
       branch: ["koc"],
       kms: true
@@ -359,7 +359,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Paladin",
-    img: "paladin.webp",
+    img: "paladin.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -367,7 +367,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Pathfinder",
-    img: "pathfinder.webp",
+    img: "pathfinder.png",
     opts: {
       branch: ["hero"],
       kms: true
@@ -375,7 +375,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Phantom",
-    img: "phantom.webp",
+    img: "phantom.png",
     opts: {
       branch: ["hero"],
       kms: true
@@ -383,7 +383,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shade",
-    img: "shade.webp",
+    img: "shade.png",
     opts: {
       branch: ["hero"],
       kms: true
@@ -391,7 +391,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shadower",
-    img: "shadower.webp",
+    img: "shadower.png",
     opts: {
       branch: ["exp"],
       kms: true
@@ -399,7 +399,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Thunder Breaker",
-    img: "thunder_breaker.webp",
+    img: "thunder_breaker.png",
     opts: {
       branch: ["koc"],
       kms: true
@@ -407,7 +407,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Wild Hunter",
-    img: "wild_hunter.webp",
+    img: "wild_hunter.png",
     opts: {
       branch: ["res"],
       kms: true
@@ -415,7 +415,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Wind Archer",
-    img: "wind_archer.webp",
+    img: "wind_archer.png",
     opts: {
       branch: ["koc"],
       kms: true
@@ -423,7 +423,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Xenon",
-    img: "xenon.webp",
+    img: "xenon.png",
     opts: {
       branch: ["res"],
       kms: true
@@ -431,7 +431,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Zero",
-    img: "zero.webp",
+    img: "zero.png",
     opts: {
       branch: ["zero"],
       kms: true
